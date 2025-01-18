@@ -50,15 +50,15 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227417/1.m3u8
 #EXTINF:-1 tvg-name="CDTV-1" group-title="四川本地",CDTV-1
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227495/1.m3u8
 #EXTINF:-1 tvg-name="CDTV-2" group-title="四川本地",CDTV-2
-http://119.4.91.141:80/PLTV/88888888/224/3221227949/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227949/1.m3u8
 #EXTINF:-1 tvg-name="CDTV-3" group-title="四川本地",CDTV-3
-http://119.4.91.141:80/PLTV/88888888/224/3221227950/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227950/1.m3u8
 #EXTINF:-1 tvg-name="CDTV-4" group-title="四川本地",CDTV-4
-http://119.4.91.141:80/PLTV/88888888/224/3221227951/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227951/1.m3u8
 #EXTINF:-1 tvg-name="CDTV-6" group-title="四川本地",CDTV-6
-http://119.4.91.141:80/PLTV/88888888/224/3221227953/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227953/1.m3u8
 #EXTINF:-1 tvg-name="CDTV-8" group-title="四川本地",CDTV-8
-http://119.4.91.141:80/PLTV/88888888/224/3221227920/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227920/1.m3u8
 #EXTINF:-1 tvg-name="SCTV-经济" group-title="四川本地",SCTV-经济
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227415/1.m3u8
 #EXTINF:-1 tvg-name="SCTV-文化旅游" group-title="四川本地",SCTV-文化旅游
@@ -76,29 +76,29 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227403/1.m3u8
 #EXTINF:-1 tvg-name="广元综合" group-title="四川本地",广元综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227531/1.m3u8
 #EXTINF:-1 tvg-name="遂宁综合" group-title="四川本地",遂宁综合
-http://119.4.91.141:80/PLTV/88888888/224/3221227533/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227533/1.m3u8
 #EXTINF:-1 tvg-name="XX新闻综合" group-title="四川本地",XX新闻综合
-http://119.4.91.141:80/PLTV/88888888/224/3221227563/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227563/1.m3u8
 #EXTINF:-1 tvg-name="XX2新闻综合" group-title="四川本地",XX2新闻综合
-http://119.4.91.141:80/PLTV/88888888/224/3221227543/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227543/1.m3u8
 #EXTINF:-1 tvg-name="XX3新闻综合" group-title="四川本地",XX3新闻综合
-http://119.4.91.141:80/PLTV/88888888/224/3221227547/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227547/1.m3u8
 #EXTINF:-1 tvg-name="XX4综合" group-title="四川本地",XX4综合
-http://119.4.91.141:80/PLTV/88888888/224/3221227549/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227549/1.m3u8
 #EXTINF:-1 tvg-name="西昌综合" group-title="四川本地",西昌综合
-http://119.4.91.141:80/PLTV/88888888/224/3221227551/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227551/1.m3u8
 #EXTINF:-1 tvg-name="德阳文旅科教" group-title="四川本地",德阳文旅科教
-http://119.4.91.141:80/PLTV/88888888/224/3221227573/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227573/1.m3u8
 #EXTINF:-1 tvg-name="巴中综合" group-title="四川本地",巴中综合
-http://119.4.91.141:80/PLTV/88888888/224/3221227575/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227575/1.m3u8
 #EXTINF:-1 tvg-name="XX5新闻综合" group-title="四川本地",XX5新闻综合
-http://119.4.91.141:80/PLTV/88888888/224/3221227581/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227581/1.m3u8
 #EXTINF:-1 tvg-name="ABTV" group-title="四川本地",ABTV
-http://119.4.91.141:80/PLTV/88888888/224/3221227587/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227587/1.m3u8
 #EXTINF:-1 tvg-name="XX6综合" group-title="四川本地",XX6综合
-http://119.4.91.141:80/PLTV/88888888/224/3221227930/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227930/1.m3u8
 #EXTINF:-1 tvg-name="内江综合" group-title="四川本地",内江综合
-http://119.4.91.141:80/PLTV/88888888/224/3221227932/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227932/1.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227343/1.m3u8
 #EXTINF:-1 tvg-name="峨眉电影",峨眉电影
@@ -124,7 +124,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227923/1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227351/1.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://119.4.91.141:80/PLTV/88888888/224/3221227947/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227947/1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227419/1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
