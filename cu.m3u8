@@ -1,193 +1,194 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1tvg-id="1"tvg-name="CCTV-1高清",CCTV-1高清
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1高清",CCTV-1高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227479/index.m3u8
-#EXTINF:-1tvg-id="2"tvg-name="CCTV-2高清",CCTV-2高清
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2高清",CCTV-2高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227477/index.m3u8
-#EXTINF:-1tvg-id="3"tvg-name="CCTV-3高清",CCTV-3高清
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3高清",CCTV-3高清
+#EXT-X-STREAM-INF:CODECS="avc1.640028,mp4a.40.2"
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227435/index.m3u8
-#EXTINF:-1tvg-id="4"tvg-name="CCTV-4K",CCTV-4K
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4K",CCTV-4K
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
-#EXTINF:-1tvg-id="5"tvg-name="CCTV-4高清",CCTV-4高清
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV-4高清",CCTV-4高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227373/index.m3u8
-#EXTINF:-1tvg-id="6"tvg-name="CCTV-5+高清",CCTV-5+高清
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+高清",CCTV-5+高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227493/index.m3u8
-#EXTINF:-1tvg-id="7"tvg-name="CCTV-5高清",CCTV-5高清
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV-5高清",CCTV-5高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227491/index.m3u8
-#EXTINF:-1tvg-id="8"tvg-name="CCTV-6高清",CCTV-6高清
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV-6高清",CCTV-6高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227431/index.m3u8
-#EXTINF:-1tvg-id="9"tvg-name="CCTV-7高清",CCTV-7高清
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV-7高清",CCTV-7高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227429/index.m3u8
-#EXTINF:-1tvg-id="10"tvg-name="CCTV-8高清",CCTV-8高清
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV-8高清",CCTV-8高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227427/index.m3u8
-#EXTINF:-1tvg-id="11"tvg-name="CCTV-9高清",CCTV-9高清
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV-9高清",CCTV-9高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227425/index.m3u8
-#EXTINF:-1tvg-id="12"tvg-name="CCTV-10高清",CCTV-10高清
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV-10高清",CCTV-10高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227375/index.m3u8
-#EXTINF:-1tvg-id="13"tvg-name="CCTV-11高清",CCTV-11高清
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV-11高清",CCTV-11高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227922/index.m3u8
-#EXTINF:-1tvg-id="14"tvg-name="CCTV-12高清",CCTV-12高清
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV-12高清",CCTV-12高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227377/index.m3u8
-#EXTINF:-1tvg-id="15"tvg-name="CCTV-13高清",CCTV-13高清
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV-13高清",CCTV-13高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227926/index.m3u8
-#EXTINF:-1tvg-id="16"tvg-name="CCTV-14高清",CCTV-14高清
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV-14高清",CCTV-14高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227379/index.m3u8
-#EXTINF:-1tvg-id="17"tvg-name="CCTV-15高清",CCTV-15高清
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-15高清",CCTV-15高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227933/index.m3u8
-#EXTINF:-1tvg-id="18"tvg-name="CCTV-17高清",CCTV-17高清
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV-17高清",CCTV-17高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227577/index.m3u8
-#EXTINF:-1tvg-id="19"tvg-name="CETV-2",CETV-2
+#EXTINF:-1 tvg-id="19" tvg-name="CETV-2",CETV-2
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227940/index.m3u8
-#EXTINF:-1tvg-id="20"tvg-name="CETV-4",CETV-4
+#EXTINF:-1 tvg-id="20" tvg-name="CETV-4",CETV-4
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227337/index.m3u8
-#EXTINF:-1tvg-id="21"tvg-name="CGTN",CGTN
+#EXTINF:-1 tvg-id="21" tvg-name="CGTN",CGTN
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227391/index.m3u8
-#EXTINF:-1tvg-id="22"tvg-name="CHC动作影院高清",CHC动作影院高清
+#EXTINF:-1 tvg-id="22" tvg-name="CHC动作影院高清",CHC动作影院高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227984/index.m3u8
-#EXTINF:-1tvg-id="23"tvg-name="CHC家庭影院高清",CHC家庭影院高清
+#EXTINF:-1 tvg-id="23" tvg-name="CHC家庭影院高清",CHC家庭影院高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227986/index.m3u8
-#EXTINF:-1tvg-id="24"tvg-name="CHC高清影院高清",CHC高清影院高清
+#EXTINF:-1 tvg-id="24" tvg-name="CHC高清影院高清",CHC高清影院高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227981/index.m3u8
-#EXTINF:-1tvg-id="25"tvg-name="SCTV-2高清",SCTV-2高清
+#EXTINF:-1 tvg-id="25" tvg-name="SCTV-2高清",SCTV-2高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227415/index.m3u8
-#EXTINF:-1tvg-id="26"tvg-name="SCTV-3高清",SCTV-3高清
+#EXTINF:-1 tvg-id="26" tvg-name="SCTV-3高清",SCTV-3高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227413/index.m3u8
-#EXTINF:-1tvg-id="27"tvg-name="SCTV-4高清",SCTV-4高清
+#EXTINF:-1 tvg-id="27" tvg-name="SCTV-4高清",SCTV-4高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227411/index.m3u8
-#EXTINF:-1tvg-id="28"tvg-name="SCTV-5高清",SCTV-5高清
+#EXTINF:-1 tvg-id="28" tvg-name="SCTV-5高清",SCTV-5高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227409/index.m3u8
-#EXTINF:-1tvg-id="29"tvg-name="SCTV-6高清",SCTV-6高清
+#EXTINF:-1 tvg-id="29" tvg-name="SCTV-6高清",SCTV-6高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227407/index.m3u8
-#EXTINF:-1tvg-id="30"tvg-name="SCTV-7高清",SCTV-7高清
+#EXTINF:-1 tvg-id="30" tvg-name="SCTV-7高清",SCTV-7高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227405/index.m3u8
-#EXTINF:-1tvg-id="31"tvg-name="SCTV-9高清",SCTV-9高清
+#EXTINF:-1 tvg-id="31" tvg-name="SCTV-9高清",SCTV-9高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227403/index.m3u8
-#EXTINF:-1tvg-id="32"tvg-name="SCTV-科教高清",SCTV-科教高清
+#EXTINF:-1 tvg-id="32" tvg-name="SCTV-科教高清",SCTV-科教高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227936/index.m3u8
-#EXTINF:-1tvg-id="33"tvg-name="三沙卫视",三沙卫视
+#EXTINF:-1 tvg-id="33" tvg-name="三沙卫视",三沙卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227943/index.m3u8
-#EXTINF:-1tvg-id="34"tvg-name="上海纪实高清",上海纪实高清
+#EXTINF:-1 tvg-id="34" tvg-name="上海纪实高清",上海纪实高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227349/index.m3u8
-#EXTINF:-1tvg-id="35"tvg-name="东南卫视高清",东南卫视高清
+#EXTINF:-1 tvg-id="35" tvg-name="东南卫视高清",东南卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227353/index.m3u8
-#EXTINF:-1tvg-id="36"tvg-name="东方卫视高清",东方卫视高清
+#EXTINF:-1 tvg-id="36" tvg-name="东方卫视高清",东方卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227401/index.m3u8
-#EXTINF:-1tvg-id="37"tvg-name="中国交通",中国交通
+#EXTINF:-1 tvg-id="37" tvg-name="中国交通",中国交通
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227499/index.m3u8
-#EXTINF:-1tvg-id="38"tvg-name="中国教育频道",中国教育频道
+#EXTINF:-1 tvg-id="38" tvg-name="中国教育频道",中国教育频道
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227339/index.m3u8
-#EXTINF:-1tvg-id="39"tvg-name="中学生",中学生
+#EXTINF:-1 tvg-id="39" tvg-name="中学生",中学生
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227978/index.m3u8
-#EXTINF:-1tvg-id="40"tvg-name="乐游高清",乐游高清
+#EXTINF:-1 tvg-id="40" tvg-name="乐游高清",乐游高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227975/index.m3u8
-#EXTINF:-1tvg-id="41"tvg-name="书画",书画
+#EXTINF:-1 tvg-id="41" tvg-name="书画",书画
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227982/index.m3u8
-#EXTINF:-1tvg-id="42"tvg-name="云南卫视高清",云南卫视高清
+#EXTINF:-1 tvg-id="42" tvg-name="云南卫视高清",云南卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227962/index.m3u8
-#EXTINF:-1tvg-id="43"tvg-name="先锋乒羽",先锋乒羽
+#EXTINF:-1 tvg-id="43" tvg-name="先锋乒羽",先锋乒羽
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227967/index.m3u8
-#EXTINF:-1tvg-id="44"tvg-name="兵团卫视",兵团卫视
+#EXTINF:-1 tvg-id="44" tvg-name="兵团卫视",兵团卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227934/index.m3u8
-#EXTINF:-1tvg-id="45"tvg-name="内蒙古卫视",内蒙古卫视
+#EXTINF:-1 tvg-id="45" tvg-name="内蒙古卫视",内蒙古卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227181/index.m3u8
-#EXTINF:-1tvg-id="46"tvg-name="动漫秀场高清",动漫秀场高清
+#EXTINF:-1 tvg-id="46" tvg-name="动漫秀场高清",动漫秀场高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227977/index.m3u8
-#EXTINF:-1tvg-id="47"tvg-name="北京卫视高清",北京卫视高清
+#EXTINF:-1 tvg-id="47" tvg-name="北京卫视高清",北京卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227397/index.m3u8
-#EXTINF:-1tvg-id="48"tvg-name="北京纪实科教高清",北京纪实科教高清
+#EXTINF:-1 tvg-id="48" tvg-name="北京纪实科教高清",北京纪实科教高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228069/index.m3u8
-#EXTINF:-1tvg-id="49"tvg-name="卡酷动画",卡酷动画
+#EXTINF:-1 tvg-id="49" tvg-name="卡酷动画",卡酷动画
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227189/index.m3u8
-#EXTINF:-1tvg-id="50"tvg-name="厦门卫视",厦门卫视
+#EXTINF:-1 tvg-id="50" tvg-name="厦门卫视",厦门卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227938/index.m3u8
-#EXTINF:-1tvg-id="51"tvg-name="吉林卫视高清",吉林卫视高清
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视高清",吉林卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227935/index.m3u8
-#EXTINF:-1tvg-id="52"tvg-name="四川卫视高清",四川卫视高清
+#EXTINF:-1 tvg-id="52" tvg-name="四川卫视高清",四川卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227417/index.m3u8
-#EXTINF:-1tvg-id="53"tvg-name="天津卫视高清",天津卫视高清
+#EXTINF:-1 tvg-id="53" tvg-name="天津卫视高清",天津卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227343/index.m3u8
-#EXTINF:-1tvg-id="54"tvg-name="宁夏卫视",宁夏卫视
+#EXTINF:-1 tvg-id="54" tvg-name="宁夏卫视",宁夏卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227119/index.m3u8
-#EXTINF:-1tvg-id="55"tvg-name="安多卫视",安多卫视
+#EXTINF:-1 tvg-id="55" tvg-name="安多卫视",安多卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227121/index.m3u8
-#EXTINF:-1tvg-id="56"tvg-name="安徽卫视高清",安徽卫视高清
+#EXTINF:-1 tvg-id="56" tvg-name="安徽卫视高清",安徽卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227363/index.m3u8
-#EXTINF:-1tvg-id="57"tvg-name="家庭理财",家庭理财
+#EXTINF:-1 tvg-id="57" tvg-name="家庭理财",家庭理财
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227969/index.m3u8
-#EXTINF:-1tvg-id="58"tvg-name="山东卫视高清",山东卫视高清
+#EXTINF:-1 tvg-id="58" tvg-name="山东卫视高清",山东卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227365/index.m3u8
-#EXTINF:-1tvg-id="59"tvg-name="山东教育",山东教育
+#EXTINF:-1 tvg-id="59" tvg-name="山东教育",山东教育
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227945/index.m3u8
-#EXTINF:-1tvg-id="60"tvg-name="山西卫视",山西卫视
+#EXTINF:-1 tvg-id="60" tvg-name="山西卫视",山西卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227183/index.m3u8
-#EXTINF:-1tvg-id="61"tvg-name="峨眉电影高清",峨眉电影高清
+#EXTINF:-1 tvg-id="61" tvg-name="峨眉电影高清",峨眉电影高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227942/index.m3u8
-#EXTINF:-1tvg-id="62"tvg-name="广东卫视高清",广东卫视高清
+#EXTINF:-1 tvg-id="62" tvg-name="广东卫视高清",广东卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227361/index.m3u8
-#EXTINF:-1tvg-id="63"tvg-name="广西卫视高清",广西卫视高清
+#EXTINF:-1 tvg-id="63" tvg-name="广西卫视高清",广西卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227939/index.m3u8
-#EXTINF:-1tvg-id="64"tvg-name="康巴卫视高清",康巴卫视高清
+#EXTINF:-1 tvg-id="64" tvg-name="康巴卫视高清",康巴卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227629/index.m3u8
-#EXTINF:-1tvg-id="65"tvg-name="延边卫视",延边卫视
+#EXTINF:-1 tvg-id="65" tvg-name="延边卫视",延边卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227961/index.m3u8
-#EXTINF:-1tvg-id="66"tvg-name="快乐垂钓高清",快乐垂钓高清
+#EXTINF:-1 tvg-id="66" tvg-name="快乐垂钓高清",快乐垂钓高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227965/index.m3u8
-#EXTINF:-1tvg-id="67"tvg-name="新疆卫视",新疆卫视
+#EXTINF:-1 tvg-id="67" tvg-name="新疆卫视",新疆卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227117/index.m3u8
-#EXTINF:-1tvg-id="68"tvg-name="欢笑剧场4K",欢笑剧场4K
+#EXTINF:-1 tvg-id="68" tvg-name="欢笑剧场4K",欢笑剧场4K
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227970/index.m3u8
-#EXTINF:-1tvg-id="69"tvg-name="江苏卫视高清",江苏卫视高清
+#EXTINF:-1 tvg-id="69" tvg-name="江苏卫视高清",江苏卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227421/index.m3u8
-#EXTINF:-1tvg-id="70"tvg-name="江西卫视高清",江西卫视高清
+#EXTINF:-1 tvg-id="70" tvg-name="江西卫视高清",江西卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227355/index.m3u8
-#EXTINF:-1tvg-id="71"tvg-name="汽摩频道",汽摩频道
+#EXTINF:-1 tvg-id="71" tvg-name="汽摩频道",汽摩频道
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227968/index.m3u8
-#EXTINF:-1tvg-id="72"tvg-name="河北卫视高清",河北卫视高清
+#EXTINF:-1 tvg-id="72" tvg-name="河北卫视高清",河北卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227399/index.m3u8
-#EXTINF:-1tvg-id="73"tvg-name="河南卫视高清",河南卫视高清
+#EXTINF:-1 tvg-id="73" tvg-name="河南卫视高清",河南卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227923/index.m3u8
-#EXTINF:-1tvg-id="74"tvg-name="法治天地高清",法治天地高清
+#EXTINF:-1 tvg-id="74" tvg-name="法治天地高清",法治天地高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227976/index.m3u8
-#EXTINF:-1tvg-id="75"tvg-name="浙江卫视高清",浙江卫视高清
+#EXTINF:-1 tvg-id="75" tvg-name="浙江卫视高清",浙江卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227351/index.m3u8
-#EXTINF:-1tvg-id="76"tvg-name="海南卫视",海南卫视
+#EXTINF:-1 tvg-id="76" tvg-name="海南卫视",海南卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227139/index.m3u8
-#EXTINF:-1tvg-id="77"tvg-name="深圳卫视高清",深圳卫视高清
+#EXTINF:-1 tvg-id="77" tvg-name="深圳卫视高清",深圳卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227419/index.m3u8
-#EXTINF:-1tvg-id="78"tvg-name="湖北卫视高清",湖北卫视高清
+#EXTINF:-1 tvg-id="78" tvg-name="湖北卫视高清",湖北卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227367/index.m3u8
-#EXTINF:-1tvg-id="79"tvg-name="湖南卫视高清",湖南卫视高清
+#EXTINF:-1 tvg-id="79" tvg-name="湖南卫视高清",湖南卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227369/index.m3u8
-#EXTINF:-1tvg-id="80"tvg-name="甘肃卫视高清",甘肃卫视高清
+#EXTINF:-1 tvg-id="80" tvg-name="甘肃卫视高清",甘肃卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227937/index.m3u8
-#EXTINF:-1tvg-id="81"tvg-name="精彩影视高清",精彩影视高清
+#EXTINF:-1 tvg-id="81" tvg-name="精彩影视高清",精彩影视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227980/index.m3u8
-#EXTINF:-1tvg-id="82"tvg-name="老故事",老故事
+#EXTINF:-1 tvg-id="82" tvg-name="老故事",老故事
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227979/index.m3u8
-#EXTINF:-1tvg-id="83"tvg-name="茶频道高清",茶频道高清
+#EXTINF:-1 tvg-id="83" tvg-name="茶频道高清",茶频道高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227974/index.m3u8
-#EXTINF:-1tvg-id="84"tvg-name="西藏卫视",西藏卫视
+#EXTINF:-1 tvg-id="84" tvg-name="西藏卫视",西藏卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227131/index.m3u8
-#EXTINF:-1tvg-id="85"tvg-name="西藏藏语频道",西藏藏语频道
+#EXTINF:-1 tvg-id="85" tvg-name="西藏藏语频道",西藏藏语频道
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227129/index.m3u8
-#EXTINF:-1tvg-id="86"tvg-name="财富天下",财富天下
+#EXTINF:-1 tvg-id="86" tvg-name="财富天下",财富天下
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227971/index.m3u8
-#EXTINF:-1tvg-id="87"tvg-name="贵州卫视高清",贵州卫视高清
+#EXTINF:-1 tvg-id="87" tvg-name="贵州卫视高清",贵州卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227357/index.m3u8
-#EXTINF:-1tvg-id="88"tvg-name="辽宁卫视高清",辽宁卫视高清
+#EXTINF:-1 tvg-id="88" tvg-name="辽宁卫视高清",辽宁卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227345/index.m3u8
-#EXTINF:-1tvg-id="89"tvg-name="重庆卫视高清",重庆卫视高清
+#EXTINF:-1 tvg-id="89" tvg-name="重庆卫视高清",重庆卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227359/index.m3u8
-#EXTINF:-1tvg-id="90"tvg-name="金色学堂高清",金色学堂高清
+#EXTINF:-1 tvg-id="90" tvg-name="金色学堂高清",金色学堂高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227973/index.m3u8
-#EXTINF:-1tvg-id="91"tvg-name="金鹰卡通",金鹰卡通
+#EXTINF:-1 tvg-id="91" tvg-name="金鹰卡通",金鹰卡通
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227149/index.m3u8
-#EXTINF:-1tvg-id="92"tvg-name="金鹰纪实高清",金鹰纪实高清
+#EXTINF:-1 tvg-id="92" tvg-name="金鹰纪实高清",金鹰纪实高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227371/index.m3u8
-#EXTINF:-1tvg-id="93"tvg-name="陕西卫视高清",陕西卫视高清
+#EXTINF:-1 tvg-id="93" tvg-name="陕西卫视高清",陕西卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228078/index.m3u8
-#EXTINF:-1tvg-id="94"tvg-name="青海卫视",青海卫视
+#EXTINF:-1 tvg-id="94" tvg-name="青海卫视",青海卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227123/index.m3u8
-#EXTINF:-1tvg-id="95"tvg-name="魅力足球高清",魅力足球高清
+#EXTINF:-1 tvg-id="95" tvg-name="魅力足球高清",魅力足球高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227963/index.m3u8
-#EXTINF:-1tvg-id="96"tvg-name="黑龙江卫视高清",黑龙江卫视高清
+#EXTINF:-1 tvg-id="96" tvg-name="黑龙江卫视高清",黑龙江卫视高清
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227347/index.m3u8
