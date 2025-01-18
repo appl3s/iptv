@@ -5,7 +5,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227479/index.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227477/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV-3高清",CCTV-3高清
 #EXT-X-STREAM-INF:CODECS="avc1.640028,mp4a.40.2"
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227435/index.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227435/1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-4K",CCTV-4K
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227988/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-4高清",CCTV-4高清
