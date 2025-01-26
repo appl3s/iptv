@@ -55,6 +55,8 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227949/1.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227950/1.m3u8
 #EXTINF:-1 tvg-name="CDTV-4" group-title="四川本地",CDTV-4
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227951/1.m3u8
+#EXTINF:-1 tvg-name="CDTV-5" group-title="四川本地",CDTV-5
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227587/1.m3u8
 #EXTINF:-1 tvg-name="CDTV-6" group-title="四川本地",CDTV-6
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227953/1.m3u8
 #EXTINF:-1 tvg-name="CDTV-8" group-title="四川本地",CDTV-8
@@ -77,25 +79,23 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227403/1.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227531/1.m3u8
 #EXTINF:-1 tvg-name="遂宁综合" group-title="四川本地",遂宁综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227533/1.m3u8
-#EXTINF:-1 tvg-name="XX新闻综合" group-title="四川本地",XX新闻综合
+#EXTINF:-1 tvg-name="阿坝藏语频道" group-title="四川本地",阿坝藏语频道
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227563/1.m3u8
-#EXTINF:-1 tvg-name="XX2新闻综合" group-title="四川本地",XX2新闻综合
+#EXTINF:-1 tvg-name="广安新闻综合" group-title="四川本地",广安新闻综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227543/1.m3u8
-#EXTINF:-1 tvg-name="XX3新闻综合" group-title="四川本地",XX3新闻综合
+#EXTINF:-1 tvg-name="资阳新闻综合" group-title="四川本地",资阳新闻综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227547/1.m3u8
-#EXTINF:-1 tvg-name="XX4综合" group-title="四川本地",XX4综合
+#EXTINF:-1 tvg-name="甘孜综合" group-title="四川本地",甘孜综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227549/1.m3u8
-#EXTINF:-1 tvg-name="西昌综合" group-title="四川本地",西昌综合
+#EXTINF:-1 tvg-name="凉山新闻综合" group-title="四川本地",凉山新闻综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227551/1.m3u8
 #EXTINF:-1 tvg-name="德阳文旅科教" group-title="四川本地",德阳文旅科教
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227573/1.m3u8
 #EXTINF:-1 tvg-name="巴中综合" group-title="四川本地",巴中综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227575/1.m3u8
-#EXTINF:-1 tvg-name="XX5新闻综合" group-title="四川本地",XX5新闻综合
+#EXTINF:-1 tvg-name="达州新闻综合" group-title="四川本地",达州新闻综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227581/1.m3u8
-#EXTINF:-1 tvg-name="ABTV" group-title="四川本地",ABTV
-http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227587/1.m3u8
-#EXTINF:-1 tvg-name="XX6综合" group-title="四川本地",XX6综合
+#EXTINF:-1 tvg-name="自贡综合" group-title="四川本地",自贡综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227930/1.m3u8
 #EXTINF:-1 tvg-name="内江综合" group-title="四川本地",内江综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227932/1.m3u8
