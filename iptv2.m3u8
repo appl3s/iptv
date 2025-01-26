@@ -47,31 +47,33 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227369/1.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227401/1.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227417/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-1" group-title="四川本地",CDTV-1
+#EXTINF:-1 tvg-name="CDTV-1" tvg-logo="https://live.fanmingming.com/tv/cdtv1.png" group-title="四川本地",CDTV-1
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227495/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-2" group-title="四川本地",CDTV-2
+#EXTINF:-1 tvg-name="CDTV-2" tvg-logo="https://live.fanmingming.com/tv/cdtv2.png" group-title="四川本地",CDTV-2
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227949/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-3" group-title="四川本地",CDTV-3
+#EXTINF:-1 tvg-name="CDTV-3" tvg-logo="https://live.fanmingming.com/tv/cdtv3.png" group-title="四川本地",CDTV-3
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227950/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-4" group-title="四川本地",CDTV-4
+#EXTINF:-1 tvg-name="CDTV-4" tvg-logo="https://live.fanmingming.com/tv/cdtv4.png" group-title="四川本地",CDTV-4
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227951/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-5" group-title="四川本地",CDTV-5
+#EXTINF:-1 tvg-name="CDTV-5" tvg-logo="https://live.fanmingming.com/tv/cdtv5.png" group-title="四川本地",CDTV-5
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227587/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-6" group-title="四川本地",CDTV-6
+#EXTINF:-1 tvg-name="CDTV-6" tvg-logo="https://live.fanmingming.com/tv/cdtv6.png" group-title="四川本地",CDTV-6
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227953/1.m3u8
 #EXTINF:-1 tvg-name="CDTV-8" group-title="四川本地",CDTV-8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227920/1.m3u8
-#EXTINF:-1 tvg-name="SCTV-经济" group-title="四川本地",SCTV-经济
+#EXTINF:-1 tvg-name="SCTV-经济" tvg-logo="https://live.fanmingming.com/tv/sctv2.png" group-title="四川本地",SCTV-经济
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227415/1.m3u8
-#EXTINF:-1 tvg-name="SCTV-文化旅游" group-title="四川本地",SCTV-文化旅游
+#EXTINF:-1 tvg-name="SCTV-文游" tvg-logo="https://live.fanmingming.com/tv/sctv3.png" group-title="四川本地",SCTV-文游
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227413/1.m3u8
-#EXTINF:-1 tvg-name="SCTV-新闻" group-title="四川本地",四川新闻
+#EXTINF:-1 tvg-name="SCTV-新闻" tvg-logo="https://live.fanmingming.com/tv/sctv4.png" group-title="四川本地",四川新闻
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227411/1.m3u8
-#EXTINF:-1 tvg-name="SCTV-影视文艺" group-title="四川本地",SCTV-影视文艺
+#EXTINF:-1 tvg-name="SCTV-影视文艺" tvg-logo="https://live.fanmingming.com/tv/sctv5.png" group-title="四川本地",SCTV-影视文艺
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227409/1.m3u8
+#EXTINF:-1 tvg-name="SCTV-科教" tvg-logo="https://live.fanmingming.com/tv/sctv8.png" group-title="四川本地",SCTV-科教
+http://sc.rrs.169ol.com/PLTV/88888888/224/3221227936/1.m3u8
 #EXTINF:-1 tvg-name="SCTV-星空购物" group-title="四川本地",SCTV-星空购物
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227407/1.m3u8
-#EXTINF:-1 tvg-name="SCTV-7" group-title="四川本地",SCTV-7
+#EXTINF:-1 tvg-name="SCTV-少儿" tvg-logo="https://live.fanmingming.com/tv/sctv7.png" group-title="四川本地",SCTV-少儿
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227405/1.m3u8
 #EXTINF:-1 tvg-name="SCTV-乡村" group-title="四川本地",SCTV-乡村
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227403/1.m3u8
