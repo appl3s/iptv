@@ -63,7 +63,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227953/1.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227920/1.m3u8
 #EXTINF:-1 tvg-name="SCTV-经济" tvg-logo="https://live.fanmingming.com/tv/sctv2.png" group-title="四川本地",SCTV-经济
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227415/1.m3u8
-#EXTINF:-1 tvg-name="SCTV-文游" tvg-logo="https://live.fanmingming.com/tv/sctv3.png" group-title="四川本地",SCTV-文游
+#EXTINF:-1 tvg-name="SCTV-文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川本地",SCTV-文化旅游
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227413/1.m3u8
 #EXTINF:-1 tvg-name="SCTV-新闻" tvg-logo="https://live.fanmingming.com/tv/sctv4.png" group-title="四川本地",四川新闻
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227411/1.m3u8
@@ -75,7 +75,7 @@ http://sc.rrs.169ol.com/PLTV/88888888/224/3221227936/1.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227407/1.m3u8
 #EXTINF:-1 tvg-name="SCTV-少儿" tvg-logo="https://live.fanmingming.com/tv/sctv7.png" group-title="四川本地",SCTV-少儿
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227405/1.m3u8
-#EXTINF:-1 tvg-name="SCTV-乡村" group-title="四川本地",SCTV-乡村
+#EXTINF:-1 tvg-name="SCTV-乡村" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川本地",SCTV-乡村
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227403/1.m3u8
 #EXTINF:-1 tvg-name="广元综合" group-title="四川本地",广元综合
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227531/1.m3u8
@@ -167,7 +167,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227131/1.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227129/1.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227934/1.m3u8
-#EXTINF:-1 tvg-name="先锋乒羽" group-title="卫视频道",先锋乒羽
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="卫视频道",先锋乒羽
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227967/1.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视频道",延边卫视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227961/1.m3u8
@@ -183,7 +183,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227339/1.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227940/1.m3u8
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视频道",CETV-4
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227337/1.m3u8
-#EXTINF:-1 tvg-name="中国交通" group-title="卫视频道",中国交通
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="卫视频道",中国交通
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227499/1.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="卫视频道",金色学堂
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227973/1.m3u8
@@ -191,9 +191,9 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227973/1.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227349/1.m3u8
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视频道",乐游频道
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227975/1.m3u8
-#EXTINF:-1 tvg-name="中学生" group-title="卫视频道",中学生
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="卫视频道",中学生
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227978/1.m3u8
-#EXTINF:-1 tvg-name="书画" group-title="卫视频道",书画
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="卫视频道",书画
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227982/1.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="卫视频道",欢笑剧场
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227970/1.m3u8
@@ -211,7 +211,7 @@ http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227974/1.m3u8
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227965/1.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="卫视频道",动漫秀场
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227977/1.m3u8
-#EXTINF:-1 tvg-name="法治天地" group-title="卫视频道",法治天地
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="卫视频道",法治天地
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227976/1.m3u8
 #EXTINF:-1 tvg-name="精彩影视" group-title="卫视频道",精彩影视
 http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227980/1.m3u8
