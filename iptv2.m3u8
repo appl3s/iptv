@@ -47,19 +47,19 @@ http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227369/1.m3u8
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227401/1.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227417/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-1" tvg-logo="https://live.fanmingming.cn/tv/cdtv1.png" group-title="四川本地",CDTV-1 成都新闻综合
+#EXTINF:-1 tvg-name="CDTV1" tvg-logo="https://live.fanmingming.cn/tv/cdtv1.png" group-title="四川本地",CDTV-1 成都新闻综合
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227495/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-2" tvg-logo="https://live.fanmingming.cn/tv/cdtv2.png" group-title="四川本地",CDTV-2 成都经济资讯
+#EXTINF:-1 tvg-name="CDTV2" tvg-logo="https://live.fanmingming.cn/tv/cdtv2.png" group-title="四川本地",CDTV-2 成都经济资讯
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227949/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-3" tvg-logo="https://live.fanmingming.cn/tv/cdtv3.png" group-title="四川本地",CDTV-3 成都都市生活
+#EXTINF:-1 tvg-name="CDTV3" tvg-logo="https://live.fanmingming.cn/tv/cdtv3.png" group-title="四川本地",CDTV-3 成都都市生活
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227950/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-4" tvg-logo="https://live.fanmingming.cn/tv/cdtv4.png" group-title="四川本地",CDTV-4 成都影视文艺
+#EXTINF:-1 tvg-name="CDTV4" tvg-logo="https://live.fanmingming.cn/tv/cdtv4.png" group-title="四川本地",CDTV-4 成都影视文艺
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227951/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-5" tvg-logo="https://live.fanmingming.cn/tv/cdtv5.png" group-title="四川本地",CDTV-5 成都公共
+#EXTINF:-1 tvg-name="CDTV5" tvg-logo="https://live.fanmingming.cn/tv/cdtv5.png" group-title="四川本地",CDTV-5 成都公共
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227587/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-6" tvg-logo="https://live.fanmingming.cn/tv/cdtv6.png" group-title="四川本地",CDTV-6 成都少儿
+#EXTINF:-1 tvg-name="CDTV6" tvg-logo="https://live.fanmingming.cn/tv/cdtv6.png" group-title="四川本地",CDTV-6 成都少儿
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227953/1.m3u8
-#EXTINF:-1 tvg-name="CDTV-8" group-title="四川本地",CDTV-8
+#EXTINF:-1 tvg-name="CDTV8" group-title="四川本地",CDTV-8
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227920/1.m3u8
 #EXTINF:-1 tvg-name="SCTV-经济" tvg-logo="https://live.fanmingming.cn/tv/sctv2.png" group-title="四川本地",SCTV-经济
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227415/1.m3u8
@@ -78,47 +78,47 @@ http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227405/1.m3u8
 #EXTINF:-1 tvg-name="SCTV-乡村" tvg-logo="https://live.fanmingming.cn/tv/四川乡村.png" group-title="四川本地",SCTV-乡村
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227403/1.m3u8
 #EXTINF:-1 tvg-name="广元综合" group-title="四川本地",广元综合
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227531/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227531/1.m3u8
 #EXTINF:-1 tvg-name="遂宁综合" group-title="四川本地",遂宁综合
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227533/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227533/1.m3u8
 #EXTINF:-1 tvg-name="阿坝藏语频道" group-title="四川本地",阿坝藏语频道
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227563/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227563/1.m3u8
 #EXTINF:-1 tvg-name="广安新闻综合" group-title="四川本地",广安新闻综合
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227543/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227543/1.m3u8
 #EXTINF:-1 tvg-name="资阳新闻综合" group-title="四川本地",资阳新闻综合
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227547/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227547/1.m3u8
 #EXTINF:-1 tvg-name="甘孜综合" group-title="四川本地",甘孜综合
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227549/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227549/1.m3u8
 #EXTINF:-1 tvg-name="凉山新闻综合" group-title="四川本地",凉山新闻综合
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227551/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227551/1.m3u8
 #EXTINF:-1 tvg-name="德阳文旅科教" group-title="四川本地",德阳文旅科教
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227573/1.m3u8
+http://sc.rrs.169ol.com:80/TVPLTVOD/88888888/224/3221227573/1.m3u8
 #EXTINF:-1 tvg-name="巴中综合" group-title="四川本地",巴中综合
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227575/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227575/1.m3u8
 #EXTINF:-1 tvg-name="达州新闻综合" group-title="四川本地",达州新闻综合
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227581/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227581/1.m3u8
 #EXTINF:-1 tvg-name="自贡综合" group-title="四川本地",自贡综合
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227930/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227930/1.m3u8
 #EXTINF:-1 tvg-name="内江综合" group-title="四川本地",内江综合
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227932/1.m3u8
-#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.cn/tv/emeidianying.png" group-title="四川本地",峨眉电影
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227932/1.m3u8
+#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.cn/tv/四川峨眉电影.png" group-title="四川本地",峨眉电影
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227942/1.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227343/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227343/1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227363/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227363/1.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227365/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227365/1.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227945/1.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227361/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227361/1.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227939/1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227421/1.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227355/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227355/1.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227399/1.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
@@ -130,19 +130,19 @@ http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227947/1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227419/1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227367/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227367/1.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227183/1.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227353/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227353/1.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227357/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227357/1.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227345/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227345/1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227359/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227359/1.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227347/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227347/1.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227181/1.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
@@ -181,14 +181,12 @@ http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227629/1.m3u8
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227339/1.m3u8
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="卫视频道",CETV-2
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227940/1.m3u8
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",CETV-4
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227337/1.m3u8
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.cn/tv/中国交通.png" group-title="卫视频道",中国交通
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227499/1.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.cn/tv/金色学堂.png" group-title="卫视频道",金色学堂
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227973/1.m3u8
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="卫视频道",纪实人文
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227349/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227349/1.m3u8
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.cn/tv/乐游.png" group-title="卫视频道",乐游频道
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227975/1.m3u8
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.cn/tv/中学生.png" group-title="卫视频道",中学生
@@ -198,11 +196,11 @@ http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227982/1.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="卫视频道",欢笑剧场
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227970/1.m3u8
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="卫视频道",纪实科教
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221228069/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221228069/1.m3u8
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="卫视频道",卡酷少儿
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227189/1.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="卫视频道",金鹰纪实
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227371/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227371/1.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="卫视频道",金鹰卡通
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227149/1.m3u8
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.cn/tv/茶.png" group-title="卫视频道",茶友频道
@@ -221,12 +219,12 @@ http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227969/1.m3u8
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227971/1.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.cn/tv/老故事.png" group-title="卫视频道",老故事
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227979/1.m3u8
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.cn/tv/风云足球.png" group-title="央视频道",风云足球
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="卫视频道",魅力足球
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227963/1.m3u8
 #EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.cn/tv/汽摩.png" group-title="卫视频道",重庆汽摩
 http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227968/1.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227391/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227391/1.m3u8
 #EXTINF:-1 tvg-name="内蒙古综合" tvg-logo="https://live.fanmingming.cn/tv/内蒙古新闻综合.png" group-title="内蒙频道",内蒙新闻
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.cn/tv/内蒙古经济生活.png" group-title="内蒙频道",内蒙经济
@@ -254,4 +252,4 @@ https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d1
 #EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://live.fanmingming.cn/tv/乌兰察布.png" group-title="内蒙频道",乌兰察布新闻
 https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 #EXTINF:-1 tvg-name="麻辣体育" group-title="卫视频道",麻辣体育
-http://sc.rrs.169ol.com:80/TVOD/88888888/224/3221227811/1.m3u8
+http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227811/1.m3u8
